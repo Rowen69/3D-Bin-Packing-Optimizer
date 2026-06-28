@@ -3,3 +3,6 @@ pandas
 numpy
 plotly
 gurobipy
+pymongo
+fpdf
+kaleido
