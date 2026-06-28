@@ -1,0 +1,18 @@
+1. Install semua library yang dibutuhkan:
+Pastikan Anda sudah menginstal Python, lalu jalankan:
+
+Bash
+pip install -r requirements.txt
+
+
+2. Pastikan MongoDB dan Gurobi sudah terkonfigurasi:
+
+- Aplikasi ini membutuhkan koneksi ke MongoDB lokal (mongodb://localhost:27017/).
+- Pastikan Anda memiliki lisensi Gurobi yang aktif (seperti lisensi akademik) untuk menjalankan metode MILP.
+
+3. Jalankan aplikasi Streamlit:
+
+Bash
+streamlit run app.py
+
+Catatan: Login default aplikasi adalah username: admin dan password: admin123.

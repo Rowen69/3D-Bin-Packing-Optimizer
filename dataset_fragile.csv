@@ -1,0 +1,13 @@
+name,length,width,height,weight,quantity,fragile
+Display Board,46,46,10,8,10,True
+Mainboard PAR 1810W,40,30,8,5,20,True
+LED Bulb A,30,30,40,5,30,True
+LED Panel P3.9,100,60,10,8,12,True
+Glass Cover Replacements,80,80,5,6,15,True
+Master Console Screen,60,40,15,10,4,True
+Massive LED Wall Modules,50,50,15,12,10,True
+Laser Projector Glass,30,30,20,4,8,True
+Moving Head Beam 230W (Lens),40,40,50,15,6,True
+Glass Lens Assembly,20,20,15,2,40,True
+Controller Touchscreen,45,35,12,6,5,True
+Fragile Spare Tubes,50,15,15,3,25,True
